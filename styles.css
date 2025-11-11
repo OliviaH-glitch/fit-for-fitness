@@ -1,5 +1,5 @@
 body {
-    background-color:rgb(122, 160, 248);
+    background-color:rgb(152, 183, 255);
 }
 div {
     margin:5px;
@@ -12,7 +12,7 @@ form {
 .NavContainer {
     display:flex;
     flex-direction: row;
-    background-color:rgb(61, 103, 200);
+    background-color:rgb(78, 123, 227);
     color:black;
     
 }
